@@ -1,14 +1,5 @@
-# Computer Networks
+# Database for a Groceries Store
 
-### This repository contains practices and projects related to the subject Computer Networks at ESCOM - IPN.
-
-Some of the topics studied were:
-
-* IP protocol.
-* LLC protocol.
-* ICMP protocol.
-* TCP protocol.
-* UDP protocol.
-* PacketTracer basics.
+### This was a project done during the subject Data Bases taken at ESCOM - IPN. It was normalized to its third normal form and several Triggers and Procedures were implemented.
 
 
